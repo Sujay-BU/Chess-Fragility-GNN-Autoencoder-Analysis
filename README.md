@@ -1,5 +1,7 @@
 # Chess-Fragility-GNN-Autoencoder-Analysis
 **Contributers:** Sujayanand Kingsly & Siddarth Bhupathiraju  
+
+## Aim
 Fragility is the measure of the tension within a position and also an indicator of the tipping point in a game of chess.  
 This work aims to see if a Graph Neural Network and Autoencoder combination can intuitively learn this concept or if it learns something else entirely.  
 Our work is based off of [Marc Barthelemy's](https://arxiv.org/abs/2410.02333) research.  
